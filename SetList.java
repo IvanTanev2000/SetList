@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SetListPerformanceTest {
+public class SetListTest {
 
             static final int N = 60000;
 
